@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hello, I'm Antonio.<br><br>I am a junior programmer, constantly eager to improve and take on increasingly challenging projects. Currently, I work as a Full Stack Developer, where I use languages such as Python, C++, C, and C#.<br><br>I am interested in collaborating on projects involving the development of new technologies. I am passionate about robotics and microcontroller programming.<br><br>I am continuously improving my skills as a programmer and exploring new ways to develop my projects.
 
 
