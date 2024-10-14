@@ -1,6 +1,16 @@
-# About Me:
-Hello, I'm Antonio.<br><br>I'm a junior programmer, constantly eager to improve and take on increasingly challenging projects. Currently, I work as a Full Stack Developer, where I use languages such as Python, C++ and C#.<br><br>I'm interested in collaborating on projects involving the development of new technologies. I'm passionate about robotics and microcontroller programming.<br><br>I am continuously improving my skills as a programmer and exploring new ways to develop my projects.
+# Hi there, I'm Antonio 👋
 
+## About Me
+I am a dedicated **Full Stack Developer** with experience in **Python**, **C++**, and **C#**. I thrive on taking on challenging projects and am always eager to enhance my skills.
+
+## Interests
+- Collaborating on innovative projects focused on developing new technologies.
+- Passionate about **robotics** and **microcontroller programming**.
+
+## Goals
+I continuously seek to improve my programming abilities and explore new avenues for project development.
+
+Feel free to connect with me to discuss exciting opportunities or collaborations!
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
