@@ -1,7 +1,7 @@
 # Hi there, I'm Antonio 👋
 
 ## About Me
-I am a dedicated **Full Stack Developer** with experience in **Python**, **C++**, and **C#**. I thrive on taking on challenging projects and am always eager to enhance my skills.
+I am a dedicated **Full Stack Developer** with experience in **Python**, **C#**, and **C++**. I thrive on taking on challenging projects and am always eager to enhance my skills.
 
 ## Interests
 - Collaborating on innovative projects focused on developing new technologies.
