@@ -1,32 +1,41 @@
-# Hi there, I'm Antonio 👋
+# Hi, welcome to my GitHub
 
 ## About Me
-I am a dedicated **Software Developer** with experience in **Python**, **C++**, and **C#**. I thrive on taking on challenging projects and am always eager to enhance my skills.
+I am a master’s student in Applied Engineering, working in the field of Machine Learning and Artificial Intelligence. My academic and technical focus is on neural networks and the optimization of processes using neural network–based models.
+
+I have experience working with Python, C++, and Rust, and I enjoy tackling complex technical challenges while continuously improving systems, models, and solutions through analysis and optimization.
 
 ## Interests
-- Collaborating on innovative projects focused on developing new technologies.
-- Passionate about **robotics** and **microcontroller programming**.
+- Machine Learning and Artificial Intelligence
+- Neural networks and optimization methods
+- Applied research and experimentation
+- Robotics and intelligent systems
+- High-performance and systems programming
 
 ## Goals
-I continuously seek to improve my programming abilities and explore new avenues for project development.
+- Deepen my expertise in neural networks and optimization techniques
+- Build robust and efficient ML/AI-driven systems
+- Develop projects that combine theory with real-world applications
+- Grow as an engineer at the intersection of AI, software, and robotics
 
-Feel free to connect with me to discuss exciting opportunities or collaborations!
+Feel free to connect with me if you are interested in collaboration, research, or technical discussions.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+## Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=black)
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat&logo=ros&logoColor=white)
+![CUDA](https://img.shields.io/badge/cuda-%2376B900.svg?style=flat&logo=nvidia&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ANT-RX&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ANT-RX&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ANT-RX&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=ANT-RX&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ANT-RX&hide_border=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ANT-RX&theme=midnight-purple&no-frame=true&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ANT-RX&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ANT-RX&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ANT-RX&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://visitcount.itsvg.in/api?id=ANT-RX&icon=0&color=0)
